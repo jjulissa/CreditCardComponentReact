@@ -1,0 +1,50 @@
+.CardGreen, .green { 
+    width: 400px; 
+    height: 250px;
+    background-color: green; 
+    border-radius: 10px; 
+    color: aliceblue; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    font-size: 15px; 
+} 
+.CardGrey, .grey { 
+    width: 400px; 
+    height: 250px;
+    background-color: grey; 
+    border-radius: 10px; 
+    color: black; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    font-size: 15px;
+} 
+
+.Yellow, .yellow { 
+    width: 400px; 
+    height: 250px;
+    background-color: rgb(181, 181, 67); 
+    border-radius: 10px; 
+    color: aliceblue; 
+    padding: 20px; 
+    display: flex; 
+    flex-direction: column; 
+    font-size: 15px;
+}
+.card, .containerPrincipal { 
+    display: flex; 
+    gap: 20px;
+}
+.CardGreenName, .title { 
+    display: flex; 
+    justify-content: flex-end;
+} 
+.CardGreenNumber, .number { 
+    text-align: center; 
+} 
+.CardGreenDate, .date { 
+    display: flex; 
+    gap: 10px;
+} 
+
